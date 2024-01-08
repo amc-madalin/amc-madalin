@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi! I'm Madalin 👋
 
-<!--
-**amc-madalin/amc-madalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 A Machine Learning Engineer
+📍 Based in Bucharest, Romania
+⚡ Passionate about AI and machine learning, with a knack for turning complex algorithms into usable applications.
 
-Here are some ideas to get you started:
+## My latest projects:
+- **Transformer-PyTorch** - Delving into transformers in Python. Learning by doing!
+- **ArXiv-Reader-API** - A custom API interfacing with GPT-4 to summarize and interact with the latest arXiv papers.
+- **Flappy-AI** - Training an AI agent to navigate a Flappy Bird-style game using reinforcement learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me on:
+- Instagram: [amadalincostea](https://www.instagram.com/amadalincostea/)
+- LinkedIn: [alexandru-m-costea](https://www.linkedin.com/in/alexandru-m-costea/)
+- Website: [amcostea.com](http://amcostea.com/)
+
+I'm always open to collaborating on projects, so feel free to reach out!
