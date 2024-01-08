@@ -1,8 +1,8 @@
 # Hi! I'm Madalin 👋
 
-👨‍💻 A Machine Learning Engineer
-📍 Based in Bucharest, Romania
-⚡ Passionate about AI and machine learning, with a knack for turning complex algorithms into usable applications.
+- 👨‍💻 A Machine Learning Engineer
+- 📍 Based in Bucharest, Romania
+- ⚡ Passionate about AI and machine learning, with a knack for turning complex algorithms into usable applications.
 
 ## My latest projects:
 - [Transformer-PyTorch](https://github.com/amc-madalin/transformer-pytorch) - Delving into transformers in Python. Learning by doing!
