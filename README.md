@@ -10,8 +10,8 @@
 - [Flappy-AI](https://github.com/amc-madalin/flappy-ai) - Training an AI agent to navigate a Flappy Bird-style game using reinforcement learning.
 
 ## Find me on:
-- Instagram: [amadalincostea](https://www.instagram.com/amadalincostea/)
-- LinkedIn: [amadalincostea](https://www.linkedin.com/in/alexandru-m-costea/)
-- Website: [amcostea.com](http://amcostea.com/)
+- [Instagram](https://www.instagram.com/amadalincostea/)
+- [LinkedIn](https://www.linkedin.com/in/alexandru-m-costea/)
+- [Website: amcostea.com](http://amcostea.com/)
 
 I'm always open to collaborating on projects, so feel free to reach out!
