@@ -1,7 +1,9 @@
 # Hi! I'm Madalin 👋
 
 👨‍💻 A Machine Learning Engineer
+
 📍 Based in Bucharest, Romania
+
 ⚡ Passionate about AI and machine learning, with a knack for turning complex algorithms into usable applications.
 
 ## My latest projects:
