@@ -1,4 +1,4 @@
-# Hi! I'm Madalin 👋
+# Hi! I'm Madalin 👋                                                                                                                    [Tomato GIF](https://github.com/amc-madalin/amc-madalin/blob/main/combined_video_5fps.gif)
 
 - 👨‍💻 A Machine Learning Engineer
 - 📍 Based in Bucharest, Romania
