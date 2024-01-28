@@ -1,4 +1,4 @@
-# Hi! I'm Madalin 👋  <img src="https://github.com/amc-madalin/amc-madalin/blob/main/combined_video_5fps.gif" align="right" width="500"/>
+# Hi! I'm Madalin 👋  <img src="https://github.com/amc-madalin/amc-madalin/blob/main/combined_video_5fps.gif" align="right" width="100"/>
 
 - 👨‍💻 A Machine Learning Engineer
 - 📍 Based in Bucharest, Romania
